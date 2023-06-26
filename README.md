@@ -80,7 +80,3 @@ myenv\Scripts\activate.bat
 This will create a virtual environment and activate it, allowing you to work within an isolated Python environment.
 
 Note: Make sure you have Python 3.x installed before creating the virtual environment.
-```
-```
-
-You can copy the entire content above and paste it into your GitHub README file.
