@@ -1,0 +1,2 @@
+[console_scripts]
+PyTransLingo = PyTransLingo.translator_menu:translator_menu

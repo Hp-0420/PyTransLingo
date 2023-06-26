@@ -1,0 +1,6 @@
+PyDictionary
+beautifulsoup4
+pyttsx3
+requests
+tabulate
+translate
